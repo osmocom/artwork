@@ -7,3 +7,6 @@ Additional fonts might be used for event related designs.
 
 The vector graphics (.svg files) include both the original text using the font, and the "path" version in case the font isn't install on your system.
 The raster graphics (.png files) for the logos have a common height of 250 pixels.
+
+The artworks are under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license unless otherwise stated.
+Exceptions are noted in the individual SVG file and/or here.
