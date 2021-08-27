@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74mm"
+   height="55.5mm"
+   id="svg3510"
+   version="1.1"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="osmoDevCall.svg"
+   inkscape:export-filename="osmocomBB.png"
+   inkscape:export-xdpi="352.05099"
+   inkscape:export-ydpi="352.05099"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3512">
+    <radialGradient
+       r="4.5250292"
+       fy="8.0709476"
+       fx="10.28125"
+       cy="8.0709476"
+       cx="10.28125"
+       gradientTransform="matrix(4.9499444,0,0,4.9510321,-11.38809,35.312197)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3637"
+       xlink:href="#linearGradient3374-5-7-7-0"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3374-5-7-7-0">
+      <stop
+         id="stop3376-8-6-4-2"
+         style="stop-color:#729fcf;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3378-6-7-4-9"
+         style="stop-color:#729fcf;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       r="4.5250292"
+       fy="9.8424416"
+       fx="10.28125"
+       cy="9.8424416"
+       cx="10.28125"
+       gradientTransform="matrix(23.169932,0,0,7.6402677,-198.71238,8.843597)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3639"
+       xlink:href="#linearGradient3362-8-6-0-9"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3362-8-6-0-9">
+      <stop
+         id="stop3364-4-5-78-9"
+         style="stop-color:#3465a4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3366-7-6-6-4"
+         style="stop-color:#3465a4;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="24.837126"
+       y1="44.528019"
+       x2="21.036427"
+       y2="21.041553"
+       id="linearGradient3991-3-88-5"
+       xlink:href="#linearGradient7101-4-9-4-1"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient7101-4-9-4-1">
+      <stop
+         id="stop7103-0-4-31-0"
+         style="stop-color:#babdb6;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop7105-6-8-4-3"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="39.06765"
+       y1="28.5"
+       x2="39.421204"
+       y2="10.934953"
+       id="linearGradient3993-1-9-7"
+       xlink:href="#linearGradient6979-9-2-2-8"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient6979-9-2-2-8">
+      <stop
+         id="stop6981-9-9-0-8"
+         style="stop-color:#888a85;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop6983-0-3-6-6"
+         style="stop-color:#555753;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="10.28125"
+       cy="7.8249326"
+       r="4.5250292"
+       fx="10.28125"
+       fy="7.8249326"
+       id="radialGradient3995-7-4-0"
+       xlink:href="#linearGradient3374-5-7-7-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.2651111,0,0,2.2923498,16.215361,52.593597)" />
+    <linearGradient
+       id="linearGradient3464">
+      <stop
+         id="stop3466"
+         style="stop-color:#729fcf;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3468"
+         style="stop-color:#729fcf;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="10.28125"
+       cy="9.8424416"
+       r="4.5250292"
+       fx="10.28125"
+       fy="9.8424416"
+       id="radialGradient3997-3-3-4"
+       xlink:href="#linearGradient3362-8-6-0-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(15.1803,0,0,5.0647752,-116.56897,28.614297)" />
+    <linearGradient
+       id="linearGradient3471">
+      <stop
+         id="stop3473"
+         style="stop-color:#3465a4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3475"
+         style="stop-color:#3465a4;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="8.9057236"
+       cy="1.7286602"
+       r="1.9952321"
+       fx="8.9057236"
+       fy="1.7286602"
+       id="radialGradient3999-1-4-6"
+       xlink:href="#linearGradient7131-6-1-5-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7375073,0,0,0.7201806,2.4345312,0.6617371)" />
+    <linearGradient
+       id="linearGradient7131-6-1-5-7">
+      <stop
+         id="stop7133-4-5-2-6"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop7135-6-9-5-0"
+         style="stop-color:#d3d7cf;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="8.3046875"
+       cy="1.1256332"
+       r="2.0507698"
+       fx="8.3046875"
+       fy="1.1256332"
+       id="radialGradient4001-9-6-9"
+       xlink:href="#linearGradient7153-0-1-9-75"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.2943491,0,0,5.2881329,-7.02204,58.291497)" />
+    <linearGradient
+       id="linearGradient7153-0-1-9-75">
+      <stop
+         id="stop7155-8-7-3-9"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop7157-5-7-7-7"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       r="2.0507698"
+       fy="1.1256332"
+       fx="8.3046875"
+       cy="1.1256332"
+       cx="8.3046875"
+       gradientTransform="matrix(5.2943491,0,0,5.2881329,-7.02204,58.291497)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3508"
+       xlink:href="#linearGradient7153-0-1-9-75"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3374-5-7-7-0-7">
+      <stop
+         id="stop3376-8-6-4-2-5"
+         style="stop-color:#729fcf;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3378-6-7-4-9-2"
+         style="stop-color:#729fcf;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3362-8-6-0-9-9">
+      <stop
+         id="stop3364-4-5-78-9-0"
+         style="stop-color:#3465a4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3366-7-6-6-4-7"
+         style="stop-color:#3465a4;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="24.837126"
+       y1="44.528019"
+       x2="21.036427"
+       y2="21.041553"
+       id="linearGradient3991-3-88-5-0"
+       xlink:href="#linearGradient7101-4-9-4-1-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0666667)" />
+    <linearGradient
+       id="linearGradient7101-4-9-4-1-0">
+      <stop
+         id="stop7103-0-4-31-0-6"
+         style="stop-color:#babdb6;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop7105-6-8-4-3-7"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="39.06765"
+       y1="28.5"
+       x2="39.421204"
+       y2="10.934953"
+       id="linearGradient3993-1-9-7-8"
+       xlink:href="#linearGradient6979-9-2-2-8-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0666667)" />
+    <linearGradient
+       id="linearGradient6979-9-2-2-8-4">
+      <stop
+         id="stop6981-9-9-0-8-4"
+         style="stop-color:#888a85;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop6983-0-3-6-6-0"
+         style="stop-color:#555753;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="10.28125"
+       cy="7.8249326"
+       r="4.5250292"
+       fx="10.28125"
+       fy="7.8249326"
+       id="radialGradient3995-7-4-0-1"
+       xlink:href="#linearGradient3374-5-7-7-0-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4161185,0,0,2.4451731,17.296385,56.099837)" />
+    <linearGradient
+       id="linearGradient3681">
+      <stop
+         id="stop3683"
+         style="stop-color:#729fcf;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3685"
+         style="stop-color:#729fcf;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="10.28125"
+       cy="9.8424416"
+       r="4.5250292"
+       fx="10.28125"
+       fy="9.8424416"
+       id="radialGradient3997-3-3-4-9"
+       xlink:href="#linearGradient3362-8-6-0-9-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(16.19232,0,0,5.4024269,-124.34023,30.521917)" />
+    <linearGradient
+       id="linearGradient3688">
+      <stop
+         id="stop3690"
+         style="stop-color:#3465a4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3692"
+         style="stop-color:#3465a4;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="8.9057236"
+       cy="1.7286602"
+       r="1.9952321"
+       fx="8.9057236"
+       fy="1.7286602"
+       id="radialGradient3999-1-4-6-1"
+       xlink:href="#linearGradient7131-6-1-5-7-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.87560273,0,0,0.87793449,12.764013,0.73049853)" />
+    <linearGradient
+       id="linearGradient7131-6-1-5-7-8">
+      <stop
+         id="stop7133-4-5-2-6-1"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop7135-6-9-5-0-4"
+         style="stop-color:#d3d7cf;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="8.3046875"
+       cy="1.1256332"
+       r="2.0507698"
+       fx="8.3046875"
+       fy="1.1256332"
+       id="radialGradient4001-9-6-9-9"
+       xlink:href="#linearGradient7153-0-1-9-75-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.2943491,0,0,5.2881329,-7.02204,58.291497)" />
+    <linearGradient
+       id="linearGradient7153-0-1-9-75-1">
+      <stop
+         id="stop7155-8-7-3-9-7"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop7157-5-7-7-7-9"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       r="4.5250292"
+       fy="8.0709476"
+       fx="10.28125"
+       cy="8.0709476"
+       cx="10.28125"
+       gradientTransform="matrix(4.9499444,0,0,4.9510321,-11.38809,35.312197)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3637-3"
+       xlink:href="#linearGradient3374-5-7-7-0"
+       inkscape:collect="always" />
+    <radialGradient
+       r="4.5250292"
+       fy="9.8424416"
+       fx="10.28125"
+       cy="9.8424416"
+       cx="10.28125"
+       gradientTransform="matrix(23.169932,0,0,7.6402677,-198.71238,8.843597)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3639-5"
+       xlink:href="#linearGradient3362-8-6-0-9"
+       inkscape:collect="always" />
+    <radialGradient
+       cx="10.28125"
+       cy="7.8249326"
+       r="4.5250292"
+       fx="10.28125"
+       fy="7.8249326"
+       id="radialGradient3995-7-4-0-7"
+       xlink:href="#linearGradient3374-5-7-7-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.2651111,0,0,2.2923498,16.215361,52.593597)" />
+    <radialGradient
+       cx="10.28125"
+       cy="9.8424416"
+       r="4.5250292"
+       fx="10.28125"
+       fy="9.8424416"
+       id="radialGradient3997-3-3-4-0"
+       xlink:href="#linearGradient3362-8-6-0-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(15.1803,0,0,5.0647752,-116.56897,28.614297)" />
+    <radialGradient
+       cx="8.9057236"
+       cy="1.7286602"
+       r="1.9952321"
+       fx="8.9057236"
+       fy="1.7286602"
+       id="radialGradient3999-1-4-6-9"
+       xlink:href="#linearGradient7131-6-1-5-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7375073,0,0,0.7201806,2.4345312,0.6617371)" />
+    <radialGradient
+       cx="8.3046875"
+       cy="1.1256332"
+       r="2.0507698"
+       fx="8.3046875"
+       fy="1.1256332"
+       id="radialGradient4001-9-6-9-0"
+       xlink:href="#linearGradient7153-0-1-9-75"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.2943491,0,0,5.2881329,-7.02204,58.291497)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="189.65614"
+     inkscape:cy="128.92072"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text4700"
+     showgrid="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:window-width="2485"
+     inkscape:window-height="1325"
+     inkscape:window-x="610"
+     inkscape:window-y="46"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-text-baseline="true"
+     units="mm" />
+  <metadata
+     id="metadata3515">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="picture"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-122.17337,-617.65216)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="m"
+     transform="translate(-122.17337,-617.65216)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="text"
+     transform="translate(-122.17337,-617.65216)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="font"
+       style="display:none">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:64px;line-height:125%;font-family:Sans;letter-spacing:0.14px;word-spacing:0px;display:inline;fill:#a00000;fill-opacity:1;stroke:none"
+         x="175.02589"
+         y="678.39832"
+         id="text3743"><tspan
+           sodipodi:role="line"
+           id="tspan3745"
+           x="175.02589"
+           y="678.39832"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0.14px;fill:#a00000;fill-opacity:1"
+           dx="0 0">os</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#a00000;fill-opacity:1;stroke:none"
+         x="260.67252"
+         y="678.39832"
+         id="text3760"><tspan
+           sodipodi:role="line"
+           id="tspan3762"
+           x="260.67252"
+           y="678.39832"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';fill:#a00000;fill-opacity:1">ocom</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:bold;font-size:64px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Yanone Kaffeesatz Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#a00000;fill-opacity:1;stroke:none"
+         x="363.11771"
+         y="679.03833"
+         id="text3829"><tspan
+           sodipodi:role="line"
+           id="tspan3831"
+           x="363.11771"
+           y="679.03833"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz Bold';fill:#a00000;fill-opacity:1">BB</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="path"
+       style="display:inline">
+      <g
+         aria-label="ocom"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#a00000;fill-opacity:1;stroke:none"
+         id="text4700">
+        <g
+           id="g17404"
+           transform="translate(18.263942,-2.8650975)">
+          <g
+             style="display:inline"
+             id="g3732"
+             transform="translate(109.59255,576.83372)">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 60.69548,67.493897 c 0,11.5675 -9.48796,20.9448 -21.19195,20.9448 -11.703989,0 -21.191949,-9.3773 -21.191949,-20.9448 0,-11.5674 9.48796,-20.9447 21.191949,-20.9447 11.70399,0 21.19195,9.3773 21.19195,20.9447 z"
+               id="path3544"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';display:inline;opacity:0.8;fill:url(#radialGradient3637-3);fill-opacity:1;stroke:url(#radialGradient3639-5);stroke-width:1.46151;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+            <g
+               transform="matrix(1.4615138,0,0,2.5218672,4.4272,31.547917)"
+               id="g3546"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';display:inline;fill:#000000;fill-opacity:1;stroke:none">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 24,13 -8.1875,15.225744 c 11.445471,0 5.976697,0 16.34375,0 z m 0,4.96875 4,7.421875 h -7.953125 z"
+                 id="path3548"
+                 style="fill:url(#linearGradient3991-3-88-5);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3993-1-9-7);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 26.355979,42.522608 20,21.277828 13.644021,42.522609"
+                 transform="matrix(1,0,0,0.57953638,4,2.7937247)"
+                 id="path3550"
+                 style="fill:none;stroke:#ffffff;stroke-width:1.31359px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+            </g>
+            <path
+               inkscape:connector-curvature="0"
+               d="m 53.38791,67.493897 c 0,7.6681 -6.21625,13.8844 -13.88438,13.8844 -7.66813,0 -13.884379,-6.2163 -13.884379,-13.8844 0,-7.6681 6.216249,-13.8844 13.884379,-13.8844 7.66813,0 13.88438,6.2163 13.88438,13.8844 z"
+               id="path3552"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';display:inline;fill:url(#radialGradient3995-7-4-0-7);fill-opacity:1;stroke:url(#radialGradient3997-3-3-4-0);stroke-width:1.46151;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+            <g
+               transform="matrix(3.2735609,0,0,3.2593101,-24.33091,59.292917)"
+               id="g3554"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';display:inline;fill:#000000;fill-opacity:1;stroke:none">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 11,2.25 C 11,3.2164983 10.195512,4 9.203125,4 8.2107383,4 7.40625,3.2164983 7.40625,2.25 7.40625,1.2835017 8.2107383,0.5 9.203125,0.5 10.195512,0.5 11,1.2835017 11,2.25 Z"
+                 transform="matrix(1.1130433,0,0,1.1428572,9.2565233,-0.07142864)"
+                 id="path3556"
+                 style="fill:url(#radialGradient3999-1-4-6-9);fill-opacity:1;stroke:#555753;stroke-width:0.396714;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 20,1.5 C 20,1.7761424 19.776142,2 19.5,2 19.223858,2 19,1.7761424 19,1.5 19,1.2238576 19.223858,1 19.5,1 19.776142,1 20,1.2238576 20,1.5 Z"
+                 transform="matrix(1.8125,0,0,1.8125,-16.465404,-0.9288198)"
+                 id="path3558"
+                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
+            </g>
+            <path
+               inkscape:connector-curvature="0"
+               d="m 44.61882,67.441097 c 0,2.8124 -2.2902,5.0924 -5.1153,5.0924 -2.8251,0 -5.1153,-2.28 -5.1153,-5.0924 0,-2.8125 2.2902,-5.0924 5.1153,-5.0924 2.8251,0 5.1153,2.2799 5.1153,5.0924 z"
+               id="path3560"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';display:inline;fill:none;stroke:url(#radialGradient4001-9-6-9-0);stroke-width:1.46151;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+          </g>
+          <path
+             inkscape:connector-curvature="0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Andale Mono';writing-mode:lr-tb;display:inline;fill:#a00000;fill-opacity:1;stroke:#a00000;stroke-opacity:1"
+             d="m 233.19876,646.21271 -4.33398,7.45898 -1.98243,-3.41211 0.5879,26.875 c 1.89839,-1.3259 2.59645,0.72087 2.625,-0.30273 l 0.69531,-24.91016 c 1.472,-0.768 2.94356,-1.08789 4.35156,-1.08789 2.56,0 3.57662,0.89522 3.64063,3.19922 l 0.2832,23.0332 c 1.7756,-0.5051 3.37935,0.38783 3.38672,-0.17187 l 0.3164,-23.96094 c 1.408,-0.896 3.51042,-2.03711 4.98242,-2.03711 2.56001,0 3.08176,1.28202 3.13477,4.35352 l 0.38477,22.27539 c 1.20393,-0.1894 2.91393,0.60724 2.92968,-0.19336 l 0.44141,-22.46485 c 0.11329,-5.7589 0.65975,-8.57812 -5.74023,-8.57812 -2.624,0 -5.6951,0.76837 -7.8711,1.98437 -1.216,-1.2799 -3.00776,-1.98437 -5.75976,-1.98437 -0.75024,0 -1.42833,-0.0352 -2.07227,-0.0762 z"
+             id="path3959-9-26-3" />
+          <path
+             d="m 228.86427,653.67164 -4.50686,-7.7536 -4.50687,-7.7537 h 9.01373 9.01373 l -4.50686,7.7537 z"
+             id="path3981-0-4-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';display:inline;fill:none;fill-opacity:1;stroke:#e19c9c;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 252.71458,676.52294 v -27.7235"
+             id="path3983-4-9-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';display:inline;fill:none;stroke:#e19c9c;stroke-width:5.02205;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 240.73926,676.51124 v -19.8215"
+             id="path3985-4-0-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';display:inline;fill:none;stroke:#e19c9c;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 228.86363,676.68494 -0.008,-11.7527"
+             id="path3951-0-4-91-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';display:inline;fill:none;stroke:#e19c9c;stroke-width:4.66916;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <g
+             aria-label="os"
+             style="font-style:normal;font-weight:normal;font-size:64px;line-height:125%;font-family:Sans;letter-spacing:0.14px;word-spacing:0px;display:inline;fill:#a00000;fill-opacity:1;stroke:none"
+             id="text4696">
+            <path
+               d="m 176.56189,662.39832 c 0,14.4 3.456,16.64 10.048,16.64 6.848,0 10.496,-4.928 10.496,-16.832 0,-12.992 -3.2,-16.448 -9.92,-16.448 -6.72,0 -10.624,4.928 -10.624,16.64 z m 5.632,0.128 c 0,-9.984 1.984,-12.224 4.8,-12.224 3.008,0 4.48,1.792 4.48,11.968 0,9.984 -1.984,12.352 -4.736,12.352 -2.944,0 -4.544,-1.536 -4.544,-12.096 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0.14px;fill:#a00000;fill-opacity:1"
+               id="path4712"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 211.08189,645.75832 c -7.168,0 -10.432,3.072 -10.432,7.552 0,2.112 0.768,4.416 3.648,6.784 l 6.208,5.312 c 1.92,1.728 2.56,3.264 2.56,4.992 0,2.56 -1.92,3.968 -5.184,3.968 -2.496,0 -4.544,-0.512 -6.4,-1.6 -0.704,1.152 -0.896,2.24 -0.896,3.008 0,2.24 3.264,3.264 7.808,3.264 6.528,0 10.56,-3.2 10.56,-8.896 0,-3.2 -1.024,-5.312 -3.776,-8 l -5.952,-4.8 c -2.176,-1.792 -2.56,-2.816 -2.56,-3.968 0,-1.984 2.048,-3.072 5.056,-3.072 2.432,0 4.352,0.512 6.272,1.664 0.704,-0.768 1.152,-1.792 1.152,-2.624 0,-1.28 -1.472,-3.584 -8.064,-3.584 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0.14px;fill:#a00000;fill-opacity:1"
+               id="path4714"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             d="m 262.20852,662.39832 c 0,14.4 3.456,16.64 10.048,16.64 6.848,0 10.496,-4.928 10.496,-16.832 0,-12.992 -3.2,-16.448 -9.92,-16.448 -6.72,0 -10.624,4.928 -10.624,16.64 z m 5.632,0.128 c 0,-9.984 1.984,-12.224 4.8,-12.224 3.008,0 4.48,1.792 4.48,11.968 0,9.984 -1.984,12.352 -4.736,12.352 -2.944,0 -4.544,-1.536 -4.544,-12.096 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';fill:#a00000;fill-opacity:1"
+             id="path4717"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 302.98852,648.63832 c 0,-1.664 -2.368,-2.88 -5.312,-2.88 -5.312,0 -11.52,1.984 -11.52,17.344 0,13.504 3.456,15.936 9.536,15.936 4.224,0 7.168,-1.536 7.168,-3.264 0,-0.832 -0.192,-1.664 -0.512,-2.816 -1.088,0.704 -3.008,1.472 -5.056,1.472 -3.904,0 -5.696,-2.304 -5.696,-11.328 0,-11.392 3.328,-12.736 6.336,-12.736 1.728,0 3.456,0.576 4.48,1.152 0.448,-1.088 0.576,-2.176 0.576,-2.88 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';fill:#a00000;fill-opacity:1"
+             id="path4719"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 304.95852,662.39832 c 0,14.4 3.456,16.64 10.048,16.64 6.848,0 10.496,-4.928 10.496,-16.832 0,-12.992 -3.2,-16.448 -9.92,-16.448 -6.72,0 -10.624,4.928 -10.624,16.64 z m 5.632,0.128 c 0,-9.984 1.984,-12.224 4.8,-12.224 3.008,0 4.48,1.792 4.48,11.968 0,9.984 -1.984,12.352 -4.736,12.352 -2.944,0 -4.544,-1.536 -4.544,-12.096 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';fill:#a00000;fill-opacity:1"
+             id="path4721"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 342.53852,678.39832 c 5.248,0 5.184,0 5.184,-1.024 v -25.792 c 1.408,-0.896 2.816,-1.216 4.288,-1.216 2.56,0 3.136,1.28 3.136,4.352 v 23.68 c 4.992,0 5.184,0 5.184,-1.024 v -22.592 c 0,-5.76 -0.768,-9.024 -7.168,-9.024 -2.624,0 -5.696,0.768 -7.872,1.984 -1.216,-1.28 -3.008,-1.984 -5.76,-1.984 -3.52,0 -6.848,0.832 -9.664,2.112 v 30.528 c 4.992,0 5.184,0 5.184,-1.024 v -25.984 c 1.472,-0.768 2.944,-1.088 4.352,-1.088 2.56,0 3.072,0.896 3.136,3.2 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';fill:#a00000;fill-opacity:1"
+             id="path4723"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a00000;fill-opacity:1;stroke:none"
+           x="200.57838"
+           y="695.71851"
+           id="text18860"><tspan
+             sodipodi:role="line"
+             id="tspan18858"
+             x="200.57838"
+             y="695.71851"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+   id="tspan89663">Welcome to </tspan>osmoDevCall<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+   id="tspan92779">.</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a00000;fill-opacity:1;stroke:none"
+           x="187.49619"
+           y="771.70782"
+           id="text21694"><tspan
+             sodipodi:role="line"
+             x="187.49619"
+             y="771.70782"
+             id="tspan23634"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Times are in Europe/Berlin CE(S)T timezone.</tspan><tspan
+             sodipodi:role="line"
+             x="187.49619"
+             y="781.70782"
+             id="tspan101259">The talk will be recorded, which will include participant audio,</tspan><tspan
+             sodipodi:role="line"
+             x="187.49619"
+             y="791.70782"
+             id="tspan98641">video and chat. Please mute and turn off camera accordingly.</tspan><tspan
+             sodipodi:role="line"
+             x="187.49619"
+             y="801.70782"
+             id="tspan101255"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Start of recording will be announced in advance.</tspan><tspan
+             sodipodi:role="line"
+             x="187.49619"
+             y="811.70782"
+             id="tspan61702"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a00000;fill-opacity:1" /><tspan
+             sodipodi:role="line"
+             x="187.49619"
+             y="821.70782"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1"
+             id="tspan113287">* unstructured supplemental social event</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="161.2103"
+           y="814.65942"
+           id="text26296"><tspan
+             sodipodi:role="line"
+             id="tspan26294"
+             x="161.2103"
+             y="814.65942" /></text>
+        <g
+           id="g1037"
+           transform="translate(20.912717,-3.9760061)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a00000;fill-opacity:1;stroke:none"
+             x="184.0695"
+             y="720.95117"
+             id="text29320"><tspan
+               sodipodi:role="line"
+               id="tspan29318"
+               x="184.0695"
+               y="720.95117">20:00</tspan><tspan
+               sodipodi:role="line"
+               x="184.0695"
+               y="737.6178"
+               id="tspan29322">20:15</tspan><tspan
+               sodipodi:role="line"
+               x="184.0695"
+               y="754.28442"
+               id="tspan29324">later</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             x="219.03064"
+             y="720.95178"
+             id="text31660"><tspan
+               sodipodi:role="line"
+               id="tspan31658"
+               x="219.03064"
+               y="720.95178">meet and greet</tspan><tspan
+               sodipodi:role="line"
+               x="219.03064"
+               y="737.61841"
+               id="tspan31662">talk &amp; presentation</tspan><tspan
+               sodipodi:role="line"
+               x="219.03064"
+               y="754.28503"
+               id="tspan53246">USSE *</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="324.72903"
+           y="806.08545"
+           id="text112489"><tspan
+             sodipodi:role="line"
+             id="tspan112491"
+             x="324.72903"
+             y="806.08545" /></text>
+      </g>
+    </g>
+  </g>
+</svg>
